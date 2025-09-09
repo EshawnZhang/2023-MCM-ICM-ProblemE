@@ -29,11 +29,3 @@ If you reference this work, please cite the paper:
 Team 2311633 (2023). Shining a Light on the Pollution: Light Pollution Metric and Mitigation Strategies for Hefei.
 MCM/ICM 2023, Problem E. Available in this repository under paper/2311633.pdf.
 
-BibTeX example (no DOI):
-```bibtex
-@misc{team2311633_2023_rlpri,
-  title  = {Shining a Light on the Pollution: Light Pollution Metric and Mitigation Strategies for Hefei},
-  author = {{Team 2311633}},
-  year   = {2023},
-  note   = {MCM/ICM Problem E, PDF available at paper/2311633.pdf}
-}
